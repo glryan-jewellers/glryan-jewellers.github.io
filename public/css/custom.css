@@ -1,0 +1,11 @@
+h1, h2   {
+  background: -webkit-linear-gradient(#fff0b7 10%, #000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.navbar-brand   {
+  background: -webkit-linear-gradient(#fff0b7 10%, #000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
