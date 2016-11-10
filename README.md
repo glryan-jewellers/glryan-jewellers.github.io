@@ -13,7 +13,7 @@ in a word... simples.
 
 ## Demo
 
-To see this working live goto (http://glryan-jewellers.github.io/)[http://glryan-jewellers.github.io/]
+To see this working live goto [http://glryan-jewellers.github.io/](http://glryan-jewellers.github.io/)
 
 ## Local Development
 
