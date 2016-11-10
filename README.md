@@ -1,6 +1,6 @@
 # GL Ryan Jewellers
 
-This a a very lightweight statuc website for Ryan Jewellers that is all browser based.
+This a a very lightweight static website for Ryan Jewellers that is all browser based.
 
 The goal is to create a stylish static website that requires no hosting.
 All content is client-based.
