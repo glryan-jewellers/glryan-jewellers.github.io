@@ -16,10 +16,11 @@ app.get('/', function(req, res) {
     res.sendFile(path.join(__dirname + '/index.html'));
 });
 
+// this is how the
 app.get('/orig', function(req, res) {
-    res.sendFile(path.join(__dirname + '/index1.html'));
+    res.sendFile(path.join(__dirname + '/index_orig.html'));
 });
 
 app.get('/test', function(req, res) {
-    res.sendFile(path.join(__dirname + '/index2.html'));
+    res.sendFile(path.join(__dirname + '/index_test.html'));
 });
